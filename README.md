@@ -130,7 +130,6 @@ Rock, Nu Metal, and Synthwave remixed from CC0 sources. Composed for Embrvaal ga
 |------|---------|
 | **[dravknox.github.io](https://dravknox.github.io)** | Main portfolio and experience hub |
 | **[@DRAVKNOX on GitHub](https://github.com/DRAVKNOX)** | Code, projects, and repositories |
-| **[Veltrun on YouTube](https://www.youtube.com/@veltrun)** | Music and soundtracks (coming soon) |
 | **Email** | Channels opening soon – check back |
 
 ---
@@ -155,11 +154,10 @@ I build on these principles:
 
 ## 🚀 What's Next?
 
-- [ ] Launch Talvrek application suite
+- [ ] Launch first Talvrek application
 - [ ] Release Embrvaal's first story-driven game
 - [ ] Expand Veltrun's music catalogue to 50+ tracks
 - [ ] Build community tooling and resources
-- [ ] Open professional consultation channels
 
 **Current Status:** The infrastructure is solid. The foundation is set. Products are incoming. Please stand by.
 
