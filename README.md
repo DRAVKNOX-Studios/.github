@@ -11,169 +11,222 @@
 
 ---
 
-## 👋 Welcome
+## 👋 Welcome to the Studio
 
-I'm **Dakiee**, founder of Dravknox Studios. Since 2020, I've been building across three creative domains—separately, chaotically, and with zero plan. Then it became obvious they belonged together.
+I'm **Dakiee**, founder and lead creator at Dravknox Studios. Since 2020, I've been building across three creative domains. What started separately and chaotically eventually became obvious: it all belonged together.
 
-Now they're organized into **three divisions**, each with a singular purpose:
+Now, three distinct divisions work in harmony, each pursuing creative excellence in their own domain.
 
 ---
 
-## 🚀 **Talvrek** — Systems That Outlast Empires
-**The Software Division**
+## 🚀 Talvrek: Software Division
+### *Systems that outlast empires*
 
-FOSS-first, anti-bloat, anti-subscription software for everyday people and indie developers. Python tools, web applications, and whatever else needs building to resist the decay of subscriptionware.
+Building FOSS-first, anti-bloat, anti-subscription software for everyday people and indie developers. Python tools, web applications, and whatever else needs building to resist the creeping decay of subscriptionware.
 
-**Focus:** Python development, FOSS applications, developer tools, systems design  
-**Philosophy:** No subscriptions. No bloat. No Philippe.  
+| **What** | **How** |
+|---------|--------|
+| Applications | Python, web frameworks |
+| Philosophy | FOSS by default, no bloat, no greed |
+| Goal | Tools that survive their creators |
+
 **Tagline:** *Systems that outlast empires.*
 
 ---
 
-## 🎮 **Embrvaal** — Art That Evokes WTF is That?
-**The Creative Division**
+## 🎮 Embrvaal: Creative Division
+### *Art that evokes WTF is that?*
 
-Story-driven, stylized-realistic 3D action-adventure games built in Godot, optimized for hardware you actually own. Pure creative output. No 80GB patches. No battle passes. Just games worth playing.
+Crafting story-driven, stylized-realistic 3D action-adventure games in Godot, optimized for hardware people actually own. No 80GB patches. No battle passes. No compromises. Just experiences worth remembering.
 
-3D art rendered in Blender. Experimental writing and visual design.
+3D art created in Blender. Narrative design. Visual innovation.
 
-**Focus:** Game development (Godot), 3D art (Blender), narrative design, technical art  
-**Philosophy:** Build for real hardware. Respect the player's time.  
+| **What** | **How** |
+|---------|--------|
+| Games | Godot Engine, GDScript |
+| 3D Art | Blender, rendering |
+| Writing | Story-driven narratives |
+| Vision | Build for real players, real hardware |
+
 **Tagline:** *Art that evokes WTF is that?*
 
 ---
 
-## 🎵 **Veltrun** — Louder Than It Needs to Be
-**The Music Division**
+## 🎵 Veltrun: Music Division
+### *Louder than it needs to be. Exactly as intended.*
 
-Rock, Nu Metal, and Synthwave remixed from CC0 sources. Tuned for Embrvaal games and released to the world. Unapologetic, high-energy, exactly as intended.
+Rock, Nu Metal, and Synthwave remixed from CC0 sources. Composed for Embrvaal games, released to YouTube, and tuned for maximum impact. Unapologetic. High-energy. Exactly as it should be.
 
-**Focus:** Music production, audio remixing, original composition, sound design  
-**Philosophy:** No compromise. Maximum volume.  
+| **What** | **How** |
+|---------|--------|
+| Genres | Rock, Nu Metal, Synthwave |
+| Sources | CC0 remixes, original composition |
+| Platform | YouTube, game soundtracks |
+| Philosophy | No compromise on quality |
+
 **Tagline:** *Louder than it needs to be. Exactly as intended.*
 
 ---
 
-## 💻 **Tech Stack**
+## 💻 Tech Stack & Skills
 
-| Area | Tools & Skills |
-|------|----------------|
-| **Language** | Python (primary), JavaScript (web) |
-| **Game Dev** | Godot Engine, GDScript |
-| **Visual Art** | Blender (3D modeling, rendering) |
-| **Audio** | Audacity, REAPER, music production |
-| **Web** | HTML5, CSS3, Vanilla JavaScript (no frameworks) |
-| **Version Control** | Git, GitHub |
-| **Hosting** | GitHub Pages, self-hosted where needed |
-
----
-
-## 🏗️ **Featured Projects**
-
-All projects are built under one of the three divisions. Check out **[dravknox.github.io](https://dravknox.github.io)** for the full portfolio:
-
-- **Interactive OS Portfolio** — A retro-styled fake desktop UI showcasing all three divisions with draggable windows, taskbar, and division selection
-- **Payne-less UI: Great Grand-daddy** — The Talvrek division branding applied to an immersive portfolio experience
-- **DK_ASSIST** — A keyword-matching FAQ engine (no AI, just great personality)
-- **FOSS Applications** — Coming soon under Talvrek
-- **Godot Games** — Coming soon under Embrvaal
-- **Music Library** — Rock, Nu Metal, and Synthwave on YouTube under Veltrun
-
----
-
-## 📊 **By The Numbers**
-
-- **Founded:** 2020
-- **Divisions:** 3 (Talvrek, Embrvaal, Veltrun)
-- **Team Size:** 1 (just me—founder, developer, artist, musician)
-- **Philosophy:** Built by consumers, for consumers
-- **Status:** *Actively building. The names are done. The products will be too.*
+```
+┌─ SOFTWARE ──────────────────────────────────────┐
+│ Languages:    Python (primary), JavaScript      │
+│ Web:          HTML5, CSS3, Vanilla JS           │
+│ Frameworks:   None (just clean, lean code)      │
+│                                                  │
+├─ GAME DEVELOPMENT ──────────────────────────────┤
+│ Engine:       Godot                             │
+│ Scripting:    GDScript                          │
+│ Architecture: Optimized for modest hardware     │
+│                                                  │
+├─ 3D & VISUAL ────────────────────────────────────┤
+│ 3D Modeling:  Blender (professional level)      │
+│ Rendering:    Cycles, Eevee                     │
+│ Art:          Technical and stylized            │
+│                                                  │
+├─ AUDIO ──────────────────────────────────────────┤
+│ DAW:          Audacity, REAPER                  │
+│ Production:   Mixing, remixing, composition     │
+│ Formats:      MP3, WAV, OGG                     │
+│                                                  │
+└─ INFRASTRUCTURE ─────────────────────────────────┘
+  Git + GitHub · GitHub Pages · Self-hosted servers
+```
 
 ---
 
-## 🔗 **Connect**
+## 🏗️ Featured Projects
 
-- **Main Site:** [dravknox.github.io](https://dravknox.github.io)
-- **GitHub:** [@DRAVKNOX](https://github.com/DRAVKNOX)
-- **Channels:** Coming soon—check back
+**Main Portfolio:** [dravknox.github.io](https://dravknox.github.io)
+
+### Core Projects:
+- **Payne-less UI: Great Grand-daddy** - An interactive fake desktop OS showcasing all three divisions with draggable windows, custom taskbar, and immersive division selection
+- **DK_ASSIST FAQ Bot** - Keyword-matching conversational assistant (no AI, pure personality)
+- **Interactive Portfolio** - Multi-experience platform switching between professional and OS modes
+- **Talvrek Apps** (coming soon) - Anti-bloat FOSS applications
+- **Embrvaal Games** (coming soon) - Story-driven Godot experiences
+- **Veltrun Music** (active) - Rock, Nu Metal, Synthwave on YouTube
 
 ---
 
-## 📜 **Open Source & Licensing**
+## 📊 Studio Overview
 
-Much of my code is released under the **MIT License**. Feel free to fork, adapt, and build on it. Just don't use the Dravknox branding, division names, or logos without permission—those are reserved.
+| Metric | Value |
+|--------|-------|
+| **Founded** | 2020 |
+| **Divisions** | 3 (Talvrek, Embrvaal, Veltrun) |
+| **Team** | 1 founder (multidisciplinary) |
+| **Philosophy** | Built by consumers, for consumers |
+| **Status** | 🟢 Actively Building |
+| **Mantra** | The names are done. The products will be too. |
 
-**Dravknox Studios intellectual property:**
+---
+
+## 🔗 Connect & Explore
+
+| Link | Purpose |
+|------|---------|
+| **[dravknox.github.io](https://dravknox.github.io)** | Main portfolio and experience hub |
+| **[@DRAVKNOX on GitHub](https://github.com/DRAVKNOX)** | Code, projects, and repositories |
+| **[Veltrun on YouTube](https://www.youtube.com/@veltrun)** | Music and soundtracks (coming soon) |
+| **Email** | Channels opening soon – check back |
+
+---
+
+## 💡 Core Philosophy
+
+I build on these principles:
+
+🎯 **Quality over speed.** Better to ship once than iterate forever.
+
+🛡️ **Respect for users.** No dark patterns, subscriptions, or unnecessary bloat.
+
+🎨 **Creative independence.** One vision, fully owned, no compromise.
+
+🔓 **Open source where it matters.** Share tools, protect creative work.
+
+⚙️ **Hardware respect.** Games for hardware people actually own.
+
+👥 **No corporate decay.** Built by someone who cares, for people who care.
+
+---
+
+## 🚀 What's Next?
+
+- [ ] Launch Talvrek application suite
+- [ ] Release Embrvaal's first story-driven game
+- [ ] Expand Veltrun's music catalogue to 50+ tracks
+- [ ] Build community tooling and resources
+- [ ] Open professional consultation channels
+
+**Current Status:** The infrastructure is solid. The foundation is set. Products are incoming. Please stand by.
+
+---
+
+## 📖 Quick Facts
+
+✨ The studio concept traces back to 2018  
+✨ Three divisions emerged naturally through continuous creative work  
+✨ Zero external frameworks in web projects (HTML, CSS, vanilla JavaScript only)  
+✨ All divisions are operational and shipping products very soon  
+✨ "Built to last" isn't just a tagline here – it's a commitment  
+✨ One person, many hats, endless energy
+
+---
+
+## 🤝 Let's Collaborate
+
+Always interested in:
+- **Code collaboration** on FOSS projects (Talvrek)
+- **Creative feedback** on games and design (Embrvaal)
+- **Music licensing** discussions (Veltrun)
+- **Consultation** on creative/technical projects
+
+Reach out through the contact channels on [dravknox.github.io](https://dravknox.github.io).
+
+---
+
+## 📜 Licensing & IP Rights
+
+**Code** is released under the MIT License. Fork it, adapt it, build with it.
+
+**Everything else** (branding, art, music, writing, lore) is reserved under Dravknox Studios intellectual property:
 - Studio name and wordmarks
-- Division names: Talvrek, Embrvaal, Veltrun
-- All logos and visual branding
-- Original writing and lore
+- Division names (Talvrek, Embrvaal, Veltrun)
+- All logos and visual identity
+- Original written content and world-building
+- Musical compositions and recordings
 
 ---
 
-## 🛠️ **Currently Building**
+## 🎭 The Vision
 
-- [ ] Talvrek FOSS applications library
-- [ ] Embrvaal's first story-driven Godot game
-- [ ] Expanded Veltrun music catalogue
-- [ ] Professional portfolio expansion
-- [ ] Community tooling and resources
+Dravknox Studios exists to prove that one person with passion, vision, and dedication can build meaningful creative work across multiple disciplines. No corporate overhead. No compromises. No bloat.
 
-**Status:** *Infrastructure is solid. Products incoming. Please stand by.*
-
----
-
-## 💡 **Philosophy**
-
-I believe in:
-
-✅ **Quality over speed** — Better to ship once than iterate forever  
-✅ **Respect for the user** — No dark patterns, no subscriptions, no bloat  
-✅ **Creative independence** — One vision, fully owned  
-✅ **Open source where it matters** — Share tools, keep art/music original  
-✅ **Hardware respect** — Games for hardware people actually own  
-✅ **No corporate bloat** — Built by someone who cares, for people who care  
-
----
-
-## 📖 **Fun Facts**
-
-- The studio concept traces back to 2018 (you might find echoes in older projects)
-- The three divisions emerged naturally from continuous building
-- No frameworks, no dependencies, no bloat in web projects—just HTML, CSS, and vanilla JavaScript
-- All three divisions are fully operational and shipping products soon
-- Built to last means something here
-
----
-
-## 🤝 **Collaboration**
-
-I'm open to:
-- **Code collaborations** on FOSS projects (Talvrek)
-- **Feedback** on game design and creative work
-- **Music licensing discussions** for Veltrun tracks
-- **Guest writing** or creative consultation
-
----
-
-## 📝 **License Notice**
-
-**Code:** MIT License (see individual repositories for details)  
-**Branding, Art, Music, Writing:** All rights reserved. Dravknox Studios © 2020–Present
+Just three divisions of pure, focused creativity: software that lasts, games that matter, and music that moves.
 
 ---
 
 ```
-Built by someone who cares, for people who care.
-Dravknox Studios. Three divisions. One founder. Built to last.
-
-Come back soon. We're just getting started.
+╔════════════════════════════════════════════════╗
+║   Built by someone who cares.                 ║
+║   For people who care.                        ║
+║                                               ║
+║   Dravknox Studios.                           ║
+║   Three divisions. One founder. Built to last.║
+║                                               ║
+║   Come back soon. We're just getting started. ║
+╚════════════════════════════════════════════════╝
 ```
 
 ---
 
 <div align="center">
 
-**[→ Visit the Studio](https://dravknox.github.io)** • **[→ Projects](#featured-projects)** • **[→ GitHub](https://github.com/DRAVKNOX)**
+**[Visit the Studio](https://dravknox.github.io)** · **[Browse Projects](#featured-projects)** · **[GitHub Profile](https://github.com/DRAVKNOX)**
+
+*Last updated: May 2026*
 
 </div>
