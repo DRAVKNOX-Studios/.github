@@ -67,7 +67,7 @@ The tech and software division. FOSS-first apps, Python tools, and web applicati
 </tr>
 <tr>
 <td>Applications</td>
-<td>Python, HTML, CSS, Vanilla JS</td>
+<td>C++ (soon), Python, HTML, CSS, Vanilla JS</td>
 </tr>
 <tr>
 <td>Philosophy</td>
