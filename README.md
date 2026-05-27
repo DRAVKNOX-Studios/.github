@@ -39,14 +39,14 @@
 All three run on the same conviction: software and creative work should be built for the people who actually use them. Optimized for average hardware. No strings attached. No enshittification roadmap.
 
 ```
-┌────────────────────────────────────────────────────────────────┐
-│                                                                │
-│   [TALVREK]      |    [EMBRVAAL]      |    [VELTRUN]           │
-│   Tech & Dev     |    Games & Art     |    Music & Audio       │
-│                                                                │
-│     All systems operational. Products incoming. Stand by.      │
-│                                                                │
-└────────────────────────────────────────────────────────────────┘
++----------------------------------------------------------------+
+|                                                                |
+|   [TALVREK]      |    [EMBRVAAL]      |    [VELTRUN]           |
+|   Tech & Dev     |    Games & Art     |    Music & Audio       |
+|                                                                |
+|   All systems operational. Products incoming. Stand by.        |
+|                                                                |
++----------------------------------------------------------------+
 ```
 
 ---
@@ -172,26 +172,27 @@ The music division. Rock, Nu Metal, and Synthwave remixed from CC0 sources and t
 </div>
 
 ```
-┌─ SOFTWARE ──────────────────────────────────────┐
-│ Languages:    Python, C++ (learning), Rust      │
-│ Web:          HTML5, CSS3, Vanilla JS, React    │
-│ Frameworks:   React (web), lean by default      │
-│                                                 │
-├─ GAME DEVELOPMENT ──────────────────────────────┤
-│ Engine:       Godot                             │
-│ Scripting:    GDScript                          │
-│ Architecture: Optimized for modest hardware     │
-│                                                 │
-├─ 3D & VISUAL ───────────────────────────────────┤
-│ 3D Modelling: Blender                           │
-│ Rendering:    Cycles, Eevee                     │
-│                                                 │
-├─ AUDIO ─────────────────────────────────────────┤
-│ Tools:        Audacity, REAPER                  │
-│ Production:   Mixing, remixing, composition     │
-│                                                 │
-└─ INFRASTRUCTURE ────────────────────────────────┘
-  Git + GitHub · GitHub Pages
++-------------------------------------------------+
++- SOFTWARE --------------------------------------+
+| Languages:    Python, C++ (learning), Rust      |
+| Web:          HTML5, CSS3, Vanilla JS, React    |
+| Frameworks:   React (web), lean by default      |
+|                                                 |
++- GAME DEVELOPMENT ------------------------------+
+| Engine:       Godot                             |
+| Scripting:    GDScript                          |
+| Architecture: Optimized for modest hardware     |
+|                                                 |
++- 3D & VISUAL -----------------------------------+
+| 3D Modelling: Blender                           |
+| Rendering:    Cycles, Eevee                     |
+|                                                 |
++- AUDIO -----------------------------------------+
+| Tools:        Audacity, REAPER                  |
+| Production:   Mixing, remixing, composition     |
+|                                                 |
++- INFRASTRUCTURE --------------------------------+
+  Git + GitHub - GitHub Pages
 ```
 
 ---
@@ -239,9 +240,10 @@ The music division. Rock, Nu Metal, and Synthwave remixed from CC0 sources and t
 
 ## 🐍 GITHUB ACTIVITY
 
-[![Dakiee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DRAVKNOX&show_icons=true&theme=dark&bg_color=0f0f0f&border_color=333333&icon_color=00ff88&title_color=4488ff&text_color=cccccc&include_all_commits=true&count_private=true&cache_seconds=1800)](https://github.com/DRAVKNOX)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DRAVKNOX&theme=github_dark)](https://github.com/DRAVKNOX)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DRAVKNOX&layout=compact&theme=dark&bg_color=0f0f0f&border_color=333333&title_color=4488ff&text_color=cccccc&langs_count=8&cache_seconds=1800)](https://github.com/DRAVKNOX)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DRAVKNOX&theme=github_dark)](https://github.com/DRAVKNOX)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DRAVKNOX&theme=github_dark)](https://github.com/DRAVKNOX)
 
 > **Note:** If the stat cards above show a redirect, the public `github-readme-stats` instance is rate-limited. Fix in 2 minutes: [deploy your own instance](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_fr.md#deploy-on-your-own) on Vercel with your GitHub token, then swap the domain in the URLs above.
 
@@ -321,17 +323,17 @@ for people who actually have to live with it.
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════╗
-║                                                ║
-║   Built by someone who cares.                  ║
-║   For people who care.                         ║
-║                                                ║
-║         D R A V K N O X   S T U D I O S        ║
-║   Three divisions. One founder. Built to last. ║
-║                                                ║
-║   Come back soon. We're just getting started.  ║
-║                                                ║
-╚════════════════════════════════════════════════╝
++================================================+
+|                                                |
+|   Built by someone who cares.                  |
+|   For people who care.                         |
+|                                                |
+|         D R A V K N O X   S T U D I O S        |
+|   Three divisions. One founder. Built to last. |
+|                                                |
+|   Come back soon. We're just getting started.  |
+|                                                |
++================================================+
 ```
 
 *Last updated: May 2026*
