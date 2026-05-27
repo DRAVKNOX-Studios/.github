@@ -1,196 +1,310 @@
+<div align="center">
+
 ```
- ___           _     _           _       
-|   \ _ _ __ _| |_ _| |___ ___  | |__ _  
-| |) | '_/ _` |  _/ _` / -_|_-< | / /| ||
-|___/|_| \__,_|\__\__,_\___/__/ |_\_\\|_|
+██████╗ ██████╗  █████╗ ██╗   ██╗██╗  ██╗███╗   ██╗ ██████╗ ██╗  ██╗
+██╔══██╗██╔══██╗██╔══██╗██║   ██║██║ ██╔╝████╗  ██║██╔═══██╗╚██╗██╔╝
+██║  ██║██████╔╝███████║██║   ██║█████╔╝ ██╔██╗ ██║██║   ██║ ╚███╔╝ 
+██║  ██║██╔══██╗██╔══██║╚██╗ ██╔╝██╔═██╗ ██║╚██╗██║██║   ██║ ██╔██╗ 
+██████╔╝██║  ██║██║  ██║ ╚████╔╝ ██║  ██╗██║ ╚████║╚██████╔╝██╔╝ ██╗
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+                         S T U D I O S
 ```
 
-# **Dravknox Studios**
-> *An independent creative studio spanning code, games, 3D art, and music.*  
-> *One founder. Three divisions. Built to last.*
+[![Status](https://img.shields.io/badge/STATUS-BUILDING-brightgreen?style=for-the-badge&labelColor=0f0f0f&color=00ff88)](https://dravknox.github.io/index-pro.html)
+[![Divisions](https://img.shields.io/badge/DIVISIONS-3-blue?style=for-the-badge&labelColor=0f0f0f&color=4488ff)](https://dravknox.github.io/index-pro.html)
+[![Founder](https://img.shields.io/badge/FOUNDER-1-purple?style=for-the-badge&labelColor=0f0f0f&color=aa55ff)](https://github.com/DRAVKNOX)
+[![Philosophy](https://img.shields.io/badge/NO_SUBSCRIPTIONS-NO_BLOAT-red?style=for-the-badge&labelColor=0f0f0f&color=ff4444)](https://dravknox.github.io/index-pro.html)
+
+<br>
+
+> **No subscriptions. No bloat. No Philippe Tremblay.**
+> One founder. Three divisions. Built to last.
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Three+divisions.+One+founder.;Software+that+does+what+it+says.;Art+that+evokes+WTF+is+that%3F;Louder+than+it+needs+to+be.)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 👋 Welcome to the Studio
+<div align="center">
 
-I'm **Dakiee**, founder and lead creator at Dravknox Studios. Since 2020, I've been building across three creative domains. What started separately and chaotically eventually became obvious: it all belonged together.
+## ◈ WHO WE ARE
 
-Now, three distinct divisions work in harmony, each pursuing creative excellence in their own domain.
+</div>
+
+**Dravknox Studios** is the umbrella for three distinct creative operations. I'm **Dakiee**, the solo developer, 3D artist, and music remixer behind all three. Been juggling code, games, and sound since 2020. Dravknox is just what happened when I stopped pretending they were separate hobbies.
+
+All three run on the same conviction: software and creative work should be built for the people who actually use them. Optimized for average hardware. No strings attached. No enshittification roadmap.
+
+```
+┌────────────────────────────────────────────────────────────────┐
+│                                                                │
+│   ⚡ TALVREK   |   🎮 EMBRVAAL   |   🎧 VELTRUN              │
+│   Tech & Dev   |   Games & Art   |   Music & Audio            │
+│                                                                │
+│   [ All systems operational. Products incoming. Stand by. ]   │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🚀 Talvrek: Software Division
-### *Systems that outlast empires*
+<div align="center">
 
-Building FOSS-first, anti-bloat, anti-subscription software for everyday people and indie developers. Python tools, web applications, and whatever else needs building to resist the creeping decay of subscriptionware.
+## ⚡ DIVISION 01: TALVREK
+### *Systems that outlast empires.*
 
-| **What** | **How** |
-|---------|--------|
-| Applications | Python, web frameworks |
-| Philosophy | FOSS by default, no bloat, no greed |
-| Goal | Tools that survive their creators |
+</div>
 
-**Tagline:** *Systems that outlast empires.*
+The tech and software division. FOSS-first apps, Python tools, and web applications built for everyday people and indie devs. Anti-Adobe. Anti-bloat. Anti-subscription. Software that does what it says and keeps doing it.
+
+<table>
+<tr>
+<td><b>What</b></td>
+<td><b>How</b></td>
+</tr>
+<tr>
+<td>Applications</td>
+<td>Python, HTML, CSS, Vanilla JS</td>
+</tr>
+<tr>
+<td>Philosophy</td>
+<td>FOSS by default, no bloat, no greed</td>
+</tr>
+<tr>
+<td>Goal</td>
+<td>Software that survives its creators</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>🟡 Coming Soon</td>
+</tr>
+</table>
 
 ---
 
-## 🎮 Embrvaal: Creative Division
+<div align="center">
+
+## 🎮 DIVISION 02: EMBRVAAL
 ### *Art that evokes WTF is that?*
 
-Crafting story-driven, stylized-realistic 3D action-adventure games in Godot, optimized for hardware people actually own. No 80GB patches. No battle passes. No compromises. Just experiences worth remembering.
+</div>
 
-3D art created in Blender. Narrative design. Visual innovation.
+The creative division. Story-driven, stylized-realistic 3D action-adventure games built in Godot. Blender renders. Pure creative output, zero compromise, optimized to run on hardware you actually own. No 80GB patches. No battle passes.
 
-| **What** | **How** |
-|---------|--------|
-| Games | Godot Engine, GDScript |
-| 3D Art | Blender, rendering |
-| Writing | Story-driven narratives |
-| Vision | Build for real players, real hardware |
-
-**Tagline:** *Art that evokes WTF is that?*
+<table>
+<tr>
+<td><b>What</b></td>
+<td><b>How</b></td>
+</tr>
+<tr>
+<td>Games</td>
+<td>Godot Engine, GDScript</td>
+</tr>
+<tr>
+<td>3D Art</td>
+<td>Blender (Cycles, Eevee)</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>Story-driven narratives</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>🟡 Coming Soon</td>
+</tr>
+</table>
 
 ---
 
-## 🎵 Veltrun: Music Division
+<div align="center">
+
+## 🎧 DIVISION 03: VELTRUN
 ### *Louder than it needs to be. Exactly as intended.*
 
-Rock, Nu Metal, and Synthwave remixed from CC0 sources. Composed for Embrvaal games, released to YouTube, and tuned for maximum impact. Unapologetic. High-energy. Exactly as it should be.
+</div>
 
-| **What** | **How** |
-|---------|--------|
-| Genres | Rock, Nu Metal, Synthwave |
-| Sources | CC0 remixes, original composition |
-| Platform | YouTube, game soundtracks |
-| Philosophy | No compromise on quality |
+The music division. Rock, Nu Metal, and Synthwave remixed from CC0 sources and tuned for the games and worlds Embrvaal builds. Loud by design. On YouTube.
 
-**Tagline:** *Louder than it needs to be. Exactly as intended.*
+<table>
+<tr>
+<td><b>What</b></td>
+<td><b>How</b></td>
+</tr>
+<tr>
+<td>Genres</td>
+<td>Rock, Nu Metal, Synthwave</td>
+</tr>
+<tr>
+<td>Sources</td>
+<td>CC0 remixes, original composition</td>
+</tr>
+<tr>
+<td>Platform</td>
+<td>YouTube, game soundtracks</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>🟡 Coming Soon</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Tech Stack & Skills
+<div align="center">
+
+## 💻 TECH STACK
+
+[![Python](https://img.shields.io/badge/Python-Primary-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org)
+[![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)](https://godotengine.org)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)](https://blender.org)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)](https://pages.github.com)
+
+</div>
 
 ```
 ┌─ SOFTWARE ──────────────────────────────────────┐
 │ Languages:    Python (primary), JavaScript      │
 │ Web:          HTML5, CSS3, Vanilla JS           │
-│ Frameworks:   None (just clean, lean code)      │
+│ Frameworks:   None (clean, lean code only)      │
 │                                                  │
 ├─ GAME DEVELOPMENT ──────────────────────────────┤
 │ Engine:       Godot                             │
 │ Scripting:    GDScript                          │
 │ Architecture: Optimized for modest hardware     │
 │                                                  │
-├─ 3D & VISUAL ────────────────────────────────────┤
-│ 3D Modeling:  Blender (professional level)      │
+├─ 3D & VISUAL ───────────────────────────────────┤
+│ 3D Modelling: Blender                           │
 │ Rendering:    Cycles, Eevee                     │
-│ Art:          Technical and stylized            │
 │                                                  │
-├─ AUDIO ──────────────────────────────────────────┤
-│ DAW:          Audacity, REAPER                  │
+├─ AUDIO ─────────────────────────────────────────┤
+│ Tools:        Audacity, REAPER                  │
 │ Production:   Mixing, remixing, composition     │
-│ Formats:      MP3, WAV, OGG                     │
 │                                                  │
-└─ INFRASTRUCTURE ─────────────────────────────────┘
-  Git + GitHub · GitHub Pages · Self-hosted servers
+└─ INFRASTRUCTURE ────────────────────────────────┘
+  Git + GitHub · GitHub Pages
 ```
 
 ---
 
-## 🏗️ Featured Projects
+<div align="center">
 
-**Main Portfolio:** [dravknox.github.io](https://dravknox.github.io)
+## 🏗️ PROJECTS
 
-### Core Projects:
-- **Payne-less UI: Great Grand-daddy** - An interactive fake desktop OS showcasing all three divisions with draggable windows, custom taskbar, and immersive division selection
-- **DK_ASSIST FAQ Bot** - Keyword-matching conversational assistant (no AI, pure personality)
-- **Interactive Portfolio** - Multi-experience platform switching between professional and OS modes
-- **Talvrek Apps** (coming soon) - Anti-bloat FOSS applications
-- **Embrvaal Games** (coming soon) - Story-driven Godot experiences
-- **Veltrun Music** (active) - Rock, Nu Metal, Synthwave on YouTube
+</div>
+
+> All three divisions are building. The names are done. The products will be too.
+
+| Project | Division | Description | Status |
+|---------|----------|-------------|--------|
+| **[Payne-less UI: Great Grand-daddy](https://dravknox.github.io)** | Studio | Interactive fake desktop OS with draggable windows, taskbar, and division selection | 🟢 Live |
+| **DK_ASSIST** | Studio | Keyword-matching conversational FAQ bot. No AI, pure personality | 🟢 Live |
+| **Talvrek Apps** | ⚡ Talvrek | Anti-bloat FOSS applications | 🟡 Coming Soon |
+| **Embrvaal Games** | 🎮 Embrvaal | Story-driven Godot experiences | 🟡 Coming Soon |
+| **Veltrun Music** | 🎧 Veltrun | Rock, Nu Metal, Synthwave on YouTube | 🟡 Coming Soon |
 
 ---
 
-## 📊 Studio Overview
+<div align="center">
 
-| Metric | Value |
-|--------|-------|
+## 📊 STUDIO AT A GLANCE
+
+</div>
+
+<div align="center">
+
+| | |
+|:---:|:---:|
 | **Founded** | 2020 |
 | **Divisions** | 3 (Talvrek, Embrvaal, Veltrun) |
-| **Team** | 1 founder (multidisciplinary) |
+| **Team** | 1 founder |
+| **Projects Released** | 0 (building) |
 | **Philosophy** | Built by consumers, for consumers |
-| **Status** | 🟢 Actively Building |
-| **Mantra** | The names are done. The products will be too. |
+| **Status** | 🟢 All systems operational |
+
+</div>
 
 ---
 
-## 🔗 Connect & Explore
+<div align="center">
 
-| Link | Purpose |
-|------|---------|
-| **[dravknox.github.io](https://dravknox.github.io)** | Main portfolio and experience hub |
-| **[@DRAVKNOX on GitHub](https://github.com/DRAVKNOX)** | Code, projects, and repositories |
-| **Email** | Channels opening soon – check back |
+## 🐍 GITHUB ACTIVITY
 
----
+[![Dakiee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DRAVKNOX&show_icons=true&theme=dark&bg_color=0f0f0f&border_color=333&icon_color=00ff88&title_color=4488ff&text_color=cccccc&hide_border=false)](https://github.com/DRAVKNOX)
 
-## 💡 Core Philosophy
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DRAVKNOX&layout=compact&theme=dark&bg_color=0f0f0f&border_color=333&title_color=4488ff&text_color=cccccc)](https://github.com/DRAVKNOX)
 
-I build on these principles:
+[![GitHub Streak](https://streak-stats.demolab.com?user=DRAVKNOX&theme=dark&background=0f0f0f&border=333333&ring=00ff88&fire=ff4444&currStreakLabel=4488ff)](https://github.com/DRAVKNOX)
 
-🎯 **Quality over speed.** Better to ship once than iterate forever.
-
-🛡️ **Respect for users.** No dark patterns, subscriptions, or unnecessary bloat.
-
-🎨 **Creative independence.** One vision, fully owned, no compromise.
-
-🔓 **Open source where it matters.** Share tools, protect creative work.
-
-⚙️ **Hardware respect.** Games for hardware people actually own.
-
-👥 **No corporate decay.** Built by someone who cares, for people who care.
+</div>
 
 ---
 
-## 🚀 What's Next?
+<div align="center">
+
+## 💡 CORE PHILOSOPHY
+
+</div>
+
+```
+> No subscriptions.
+> No bloat.
+> No dark patterns.
+> No enshittification roadmap.
+> No compromises on quality.
+> No corporate decay.
+
+Just software and art built by someone who uses it,
+for people who actually have to live with it.
+```
+
+---
+
+<div align="center">
+
+## 🗺️ WHAT'S NEXT
+
+</div>
 
 - [ ] Launch first Talvrek application
 - [ ] Release Embrvaal's first story-driven game
-- [ ] Expand Veltrun's music catalogue to 50+ tracks
-- [ ] Build community tooling and resources
+- [ ] Expand Veltrun music catalogue
+- [ ] Open community channels
 
-**Current Status:** The infrastructure is solid. The foundation is set. Products are incoming. Please stand by.
+**Current status:** The infrastructure is solid. The foundation is set. Products are incoming.
 
----
-
-## 📖 Quick Facts
-
-✨ The studio concept traces back to 2018  
-✨ Three divisions emerged naturally through continuous creative work  
-✨ Zero external frameworks in web projects (HTML, CSS, vanilla JavaScript only)  
-✨ All divisions are operational and shipping products very soon  
-✨ "Built to last" isn't just a tagline here – it's a commitment  
-✨ One person, many hats, endless energy
+> *"The names are done. The products will be too."*
 
 ---
 
-## 🤝 Let's Collaborate
+<div align="center">
 
-Always interested in:
-- **Code collaboration** on FOSS projects (Talvrek)
-- **Creative feedback** on games and design (Embrvaal)
-- **Music licensing** discussions (Veltrun)
-- **Consultation** on creative/technical projects
+## 🔗 LINKS
 
-Reach out through the contact channels on [dravknox.github.io](https://dravknox.github.io).
+[![Website](https://img.shields.io/badge/WEBSITE-dravknox.github.io-00ff88?style=for-the-badge&labelColor=0f0f0f)](https://dravknox.github.io/index-pro.html)
+[![GitHub](https://img.shields.io/badge/GITHUB-@DRAVKNOX-4488ff?style=for-the-badge&labelColor=0f0f0f&logo=github)](https://github.com/DRAVKNOX)
+[![Contact](https://img.shields.io/badge/CONTACT-COMING_SOON-aa55ff?style=for-the-badge&labelColor=0f0f0f)](https://dravknox.github.io/index-pro.html)
+
+</div>
 
 ---
 
-## 📜 Licensing & IP Rights
+<div align="center">
+
+## 📜 LICENSING
+
+</div>
 
 **Code** is released under the MIT License. Fork it, adapt it, build with it.
 
-**Everything else** (branding, art, music, writing, lore) is reserved under Dravknox Studios intellectual property:
+**Everything else** is reserved under Dravknox Studios intellectual property:
+
 - Studio name and wordmarks
 - Division names (Talvrek, Embrvaal, Veltrun)
 - All logos and visual identity
@@ -199,31 +313,21 @@ Reach out through the contact channels on [dravknox.github.io](https://dravknox.
 
 ---
 
-## 🎭 The Vision
-
-Dravknox Studios exists to prove that one person with passion, vision, and dedication can build meaningful creative work across multiple disciplines. No corporate overhead. No compromises. No bloat.
-
-Just three divisions of pure, focused creativity: software that lasts, games that matter, and music that moves.
-
----
+<div align="center">
 
 ```
 ╔════════════════════════════════════════════════╗
+║                                               ║
 ║   Built by someone who cares.                 ║
 ║   For people who care.                        ║
 ║                                               ║
-║   Dravknox Studios.                           ║
+║         D R A V K N O X   S T U D I O S      ║
 ║   Three divisions. One founder. Built to last.║
 ║                                               ║
 ║   Come back soon. We're just getting started. ║
+║                                               ║
 ╚════════════════════════════════════════════════╝
 ```
-
----
-
-<div align="center">
-
-**[Visit the Studio](https://dravknox.github.io)** · **[Browse Projects](#featured-projects)** · **[GitHub Profile](https://github.com/DRAVKNOX)**
 
 *Last updated: May 2026*
 
