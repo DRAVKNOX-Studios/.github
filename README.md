@@ -41,10 +41,10 @@ All three run on the same conviction: software and creative work should be built
 ```
 ┌────────────────────────────────────────────────────────────────┐
 │                                                                │
-│   ⚡ TALVREK   |   🎮 EMBRVAAL   |   🎧 VELTRUN                │
-│   Tech & Dev   |   Games & Art   |   Music & Audio             │
+│   [TALVREK]      |    [EMBRVAAL]      |    [VELTRUN]           │
+│   Tech & Dev     |    Games & Art     |    Music & Audio       │
 │                                                                │
-│   [ All systems operational. Products incoming. Stand by. ]    │
+│     All systems operational. Products incoming. Stand by.      │
 │                                                                │
 └────────────────────────────────────────────────────────────────┘
 ```
@@ -176,20 +176,20 @@ The music division. Rock, Nu Metal, and Synthwave remixed from CC0 sources and t
 │ Languages:    Python, C++ (learning), Rust      │
 │ Web:          HTML5, CSS3, Vanilla JS, React    │
 │ Frameworks:   React (web), lean by default      │
-│                                                  │
+│                                                 │
 ├─ GAME DEVELOPMENT ──────────────────────────────┤
 │ Engine:       Godot                             │
 │ Scripting:    GDScript                          │
 │ Architecture: Optimized for modest hardware     │
-│                                                  │
+│                                                 │
 ├─ 3D & VISUAL ───────────────────────────────────┤
 │ 3D Modelling: Blender                           │
 │ Rendering:    Cycles, Eevee                     │
-│                                                  │
+│                                                 │
 ├─ AUDIO ─────────────────────────────────────────┤
 │ Tools:        Audacity, REAPER                  │
 │ Production:   Mixing, remixing, composition     │
-│                                                  │
+│                                                 │
 └─ INFRASTRUCTURE ────────────────────────────────┘
   Git + GitHub · GitHub Pages
 ```
@@ -239,9 +239,11 @@ The music division. Rock, Nu Metal, and Synthwave remixed from CC0 sources and t
 
 ## 🐍 GITHUB ACTIVITY
 
-[![Dakiee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DRAVKNOX&show_icons=true&theme=dark&bg_color=0f0f0f&border_color=333333&icon_color=00ff88&title_color=4488ff&text_color=cccccc&include_all_commits=true&count_private=true&rank_icon=github)](https://github.com/DRAVKNOX)
+[![Dakiee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DRAVKNOX&show_icons=true&theme=dark&bg_color=0f0f0f&border_color=333333&icon_color=00ff88&title_color=4488ff&text_color=cccccc&include_all_commits=true&count_private=true&cache_seconds=1800)](https://github.com/DRAVKNOX)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DRAVKNOX&layout=compact&theme=dark&bg_color=0f0f0f&border_color=333333&title_color=4488ff&text_color=cccccc&langs_count=8)](https://github.com/DRAVKNOX)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DRAVKNOX&layout=compact&theme=dark&bg_color=0f0f0f&border_color=333333&title_color=4488ff&text_color=cccccc&langs_count=8&cache_seconds=1800)](https://github.com/DRAVKNOX)
+
+> **Note:** If the stat cards above show a redirect, the public `github-readme-stats` instance is rate-limited. Fix in 2 minutes: [deploy your own instance](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_fr.md#deploy-on-your-own) on Vercel with your GitHub token, then swap the domain in the URLs above.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DRAVKNOX&theme=dark&background=0f0f0f&border=333333&ring=00ff88&fire=ff4444&currStreakLabel=4488ff)](https://github.com/DRAVKNOX)
 
