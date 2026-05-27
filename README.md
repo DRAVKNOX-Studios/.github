@@ -245,8 +245,6 @@ The music division. Rock, Nu Metal, and Synthwave remixed from CC0 sources and t
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DRAVKNOX&theme=github_dark)](https://github.com/DRAVKNOX)
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DRAVKNOX&theme=github_dark)](https://github.com/DRAVKNOX)
 
-> **Note:** If the stat cards above show a redirect, the public `github-readme-stats` instance is rate-limited. Fix in 2 minutes: [deploy your own instance](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_fr.md#deploy-on-your-own) on Vercel with your GitHub token, then swap the domain in the URLs above.
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=DRAVKNOX&theme=dark&background=0f0f0f&border=333333&ring=00ff88&fire=ff4444&currStreakLabel=4488ff)](https://github.com/DRAVKNOX)
 
 </div>
