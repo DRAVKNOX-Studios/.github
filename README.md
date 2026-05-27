@@ -41,10 +41,10 @@ All three run on the same conviction: software and creative work should be built
 ```
 ┌────────────────────────────────────────────────────────────────┐
 │                                                                │
-│   ⚡ TALVREK   |   🎮 EMBRVAAL   |   🎧 VELTRUN              │
-│   Tech & Dev   |   Games & Art   |   Music & Audio            │
+│   ⚡ TALVREK   |   🎮 EMBRVAAL   |   🎧 VELTRUN                │
+│   Tech & Dev   |   Games & Art   |   Music & Audio             │
 │                                                                │
-│   [ All systems operational. Products incoming. Stand by. ]   │
+│   [ All systems operational. Products incoming. Stand by. ]    │
 │                                                                │
 └────────────────────────────────────────────────────────────────┘
 ```
@@ -67,7 +67,7 @@ The tech and software division. FOSS-first apps, Python tools, and web applicati
 </tr>
 <tr>
 <td>Applications</td>
-<td>C++ (soon), Python, HTML, CSS, Vanilla JS</td>
+<td>Python, HTML, CSS, Vanilla JS</td>
 </tr>
 <tr>
 <td>Philosophy</td>
@@ -158,7 +158,10 @@ The music division. Rock, Nu Metal, and Synthwave remixed from CC0 sources and t
 ## 💻 TECH STACK
 
 [![Python](https://img.shields.io/badge/Python-Primary-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![C++](https://img.shields.io/badge/C++-Learning-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://rust-lang.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org)
 [![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)](https://godotengine.org)
@@ -170,9 +173,9 @@ The music division. Rock, Nu Metal, and Synthwave remixed from CC0 sources and t
 
 ```
 ┌─ SOFTWARE ──────────────────────────────────────┐
-│ Languages:    Python (primary), JavaScript      │
-│ Web:          HTML5, CSS3, Vanilla JS           │
-│ Frameworks:   None (clean, lean code only)      │
+│ Languages:    Python, C++ (learning), Rust      │
+│ Web:          HTML5, CSS3, Vanilla JS, React    │
+│ Frameworks:   React (web), lean by default      │
 │                                                  │
 ├─ GAME DEVELOPMENT ──────────────────────────────┤
 │ Engine:       Godot                             │
@@ -236,9 +239,9 @@ The music division. Rock, Nu Metal, and Synthwave remixed from CC0 sources and t
 
 ## 🐍 GITHUB ACTIVITY
 
-[![Dakiee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DRAVKNOX&show_icons=true&theme=dark&bg_color=0f0f0f&border_color=333&icon_color=00ff88&title_color=4488ff&text_color=cccccc&hide_border=false)](https://github.com/DRAVKNOX)
+[![Dakiee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DRAVKNOX&show_icons=true&theme=dark&bg_color=0f0f0f&border_color=333333&icon_color=00ff88&title_color=4488ff&text_color=cccccc&include_all_commits=true&count_private=true&rank_icon=github)](https://github.com/DRAVKNOX)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DRAVKNOX&layout=compact&theme=dark&bg_color=0f0f0f&border_color=333&title_color=4488ff&text_color=cccccc)](https://github.com/DRAVKNOX)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DRAVKNOX&layout=compact&theme=dark&bg_color=0f0f0f&border_color=333333&title_color=4488ff&text_color=cccccc&langs_count=8)](https://github.com/DRAVKNOX)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DRAVKNOX&theme=dark&background=0f0f0f&border=333333&ring=00ff88&fire=ff4444&currStreakLabel=4488ff)](https://github.com/DRAVKNOX)
 
@@ -317,15 +320,15 @@ for people who actually have to live with it.
 
 ```
 ╔════════════════════════════════════════════════╗
-║                                               ║
-║   Built by someone who cares.                 ║
-║   For people who care.                        ║
-║                                               ║
-║         D R A V K N O X   S T U D I O S      ║
-║   Three divisions. One founder. Built to last.║
-║                                               ║
-║   Come back soon. We're just getting started. ║
-║                                               ║
+║                                                ║
+║   Built by someone who cares.                  ║
+║   For people who care.                         ║
+║                                                ║
+║         D R A V K N O X   S T U D I O S        ║
+║   Three divisions. One founder. Built to last. ║
+║                                                ║
+║   Come back soon. We're just getting started.  ║
+║                                                ║
 ╚════════════════════════════════════════════════╝
 ```
 
