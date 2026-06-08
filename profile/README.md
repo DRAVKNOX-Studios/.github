@@ -240,8 +240,8 @@ The music division. Rock, Nu Metal, and Synthwave remixed from CC0 sources and t
 
 ## 🐍 GITHUB ACTIVITY
 
-[![Org Stats](https://github-readme-stats.vercel.app/api?username=DRAVKNOX-Studios&show_icons=true&theme=dark&bg_color=0f0f0f&border_color=333333&icon_color=00ff88&title_color=4488ff&text_color=ffffff)](https://github.com/DRAVKNOX-Studios)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DRAVKNOX-Studios&layout=compact&theme=dark&bg_color=0f0f0f&border_color=333333&title_color=4488ff&text_color=ffffff)](https://github.com/DRAVKNOX-Studios)
+[![GitHub followers](https://img.shields.io/github/followers/DRAVKNOX-Studios?label=Followers&style=for-the-badge&labelColor=0f0f0f&color=00ff88&logo=github)](https://github.com/DRAVKNOX-Studios)
+[![GitHub Org's stars](https://img.shields.io/github/stars/DRAVKNOX-Studios?label=Org%20Stars&style=for-the-badge&labelColor=0f0f0f&color=4488ff&logo=github)](https://github.com/DRAVKNOX-Studios)
 
 </div>
 
@@ -288,9 +288,9 @@ for people who actually have to live with it.
 
 ## 🔗 LINKS
 
-[![Website](https://img.shields.io/badge/WEBSITE-dravknox-studios.github.io-00ff88?style=for-the-badge&labelColor=0f0f0f)](https://dravknox-studios.github.io/index-pro.html)
-[![GitHub](https://img.shields.io/badge/GITHUB-@DRAVKNOX-Studios-4488ff?style=for-the-badge&labelColor=0f0f0f&logo=github)](https://github.com/DRAVKNOX-Studios)
-[![Contact](https://img.shields.io/badge/CONTACT-COMING_SOON-aa55ff?style=for-the-badge&labelColor=0f0f0f)](https://dravknox-studiis.github.io/index-pro.html)
+[![Website](https://img.shields.io/badge/WEBSITE-dravknox--studios.github.io-00ff88?style=for-the-badge&labelColor=0f0f0f)](https://dravknox-studios.github.io/index-pro.html)
+[![GitHub](https://img.shields.io/badge/GITHUB-%40DRAVKNOX--Studios-4488ff?style=for-the-badge&labelColor=0f0f0f&logo=github)](https://github.com/DRAVKNOX-Studios)
+[![Contact](https://img.shields.io/badge/CONTACT-COMING_SOON-aa55ff?style=for-the-badge&labelColor=0f0f0f)](https://dravknox-studios.github.io/index-pro.html)
 
 </div>
 
