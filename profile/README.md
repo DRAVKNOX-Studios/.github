@@ -10,10 +10,10 @@
                          S T U D I O S
 ```
 
-[![Status](https://img.shields.io/badge/STATUS-BUILDING-brightgreen?style=for-the-badge&labelColor=0f0f0f&color=00ff88)](https://dravknox.github.io/index-pro.html)
-[![Divisions](https://img.shields.io/badge/DIVISIONS-3-blue?style=for-the-badge&labelColor=0f0f0f&color=4488ff)](https://dravknox.github.io/index-pro.html)
-[![Founder](https://img.shields.io/badge/FOUNDER-1-purple?style=for-the-badge&labelColor=0f0f0f&color=aa55ff)](https://github.com/DRAVKNOX)
-[![Philosophy](https://img.shields.io/badge/NO_SUBSCRIPTIONS-NO_BLOAT-red?style=for-the-badge&labelColor=0f0f0f&color=ff4444)](https://dravknox.github.io/index-pro.html)
+[![Status](https://img.shields.io/badge/STATUS-BUILDING-brightgreen?style=for-the-badge&labelColor=0f0f0f&color=00ff88)](https://dravknox-studios.github.io/index-pro.html)
+[![Divisions](https://img.shields.io/badge/DIVISIONS-3-blue?style=for-the-badge&labelColor=0f0f0f&color=4488ff)](https://dravknox-studios.github.io/index-pro.html)
+[![Founder](https://img.shields.io/badge/FOUNDER-1-purple?style=for-the-badge&labelColor=0f0f0f&color=aa55ff)](https://github.com/DRAVKNOX-Studios)
+[![Philosophy](https://img.shields.io/badge/NO_SUBSCRIPTIONS-NO_BLOAT-red?style=for-the-badge&labelColor=0f0f0f&color=ff4444)](https://dravknox-studios.github.io/index-pro.html)
 
 <br>
 
@@ -207,8 +207,8 @@ The music division. Rock, Nu Metal, and Synthwave remixed from CC0 sources and t
 
 | Project | Division | Description | Status |
 |---------|----------|-------------|--------|
-| **[Payne-less UI: Great Grand-daddy](https://dravknox.github.io)** | Studio | Interactive fake desktop OS with draggable windows, taskbar, and division selection | 🟢 Live |
-| **DK_ASSIST** | Studio | Keyword-matching conversational FAQ bot. No AI, pure personality | 🟢 Live |
+| **[Payne-less UI: Great Grand-daddy](https://dravknox-studios.github.io)** | Studio | Interactive fake desktop OS with draggable windows, taskbar, and division selection | 🟢 Live |
+| **SIGIL** | Studio | Keyword-matching conversational FAQ bot. No AI, pure personality | 🟢 Live |
 | **Talvrek Apps** | ⚡ Talvrek | Anti-bloat FOSS applications | 🟡 Coming Soon |
 | **Embrvaal Games** | 🎮 Embrvaal | Story-driven Godot experiences | 🟡 Coming Soon |
 | **Veltrun Music** | 🎧 Veltrun | Rock, Nu Metal, Synthwave on YouTube | 🟡 Coming Soon |
@@ -240,12 +240,12 @@ The music division. Rock, Nu Metal, and Synthwave remixed from CC0 sources and t
 
 ## 🐍 GITHUB ACTIVITY
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DRAVKNOX&theme=github_dark)](https://github.com/DRAVKNOX)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DRAVKNOX-Studios&theme=github_dark)](https://github.com/DRAVKNOX)
 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DRAVKNOX&theme=github_dark)](https://github.com/DRAVKNOX)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DRAVKNOX&theme=github_dark)](https://github.com/DRAVKNOX)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DRAVKNOX-Studios&theme=github_dark)](https://github.com/DRAVKNOX-Studios)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DRAVKNOX-Studios&theme=github_dark)](https://github.com/DRAVKNOX-Studios)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DRAVKNOX&theme=dark&background=0f0f0f&border=333333&ring=00ff88&fire=ff4444&currStreakLabel=4488ff)](https://github.com/DRAVKNOX)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DRAVKNOX-Studios&theme=dark&background=0f0f0f&border=333333&ring=00ff88&fire=ff4444&currStreakLabel=4488ff)](https://github.com/DRAVKNOX-Studios)
 
 </div>
 
@@ -292,7 +292,7 @@ for people who actually have to live with it.
 
 ## 🔗 LINKS
 
-[![Website](https://img.shields.io/badge/WEBSITE-dravknox.github.io-00ff88?style=for-the-badge&labelColor=0f0f0f)](https://dravknox.github.io/index-pro.html)
+[![Website](https://img.shields.io/badge/WEBSITE-dravknox-studios.github.io-00ff88?style=for-the-badge&labelColor=0f0f0f)](https://dravknox-studios.github.io/index-pro.html)
 [![GitHub](https://img.shields.io/badge/GITHUB-@DRAVKNOX-4488ff?style=for-the-badge&labelColor=0f0f0f&logo=github)](https://github.com/DRAVKNOX)
 [![Contact](https://img.shields.io/badge/CONTACT-COMING_SOON-aa55ff?style=for-the-badge&labelColor=0f0f0f)](https://dravknox.github.io/index-pro.html)
 
