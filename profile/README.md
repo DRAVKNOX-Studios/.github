@@ -240,12 +240,8 @@ The music division. Rock, Nu Metal, and Synthwave remixed from CC0 sources and t
 
 ## 🐍 GITHUB ACTIVITY
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DRAVKNOX-Studios&theme=github_dark)](https://github.com/DRAVKNOX)
-
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DRAVKNOX-Studios&theme=github_dark)](https://github.com/DRAVKNOX-Studios)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DRAVKNOX-Studios&theme=github_dark)](https://github.com/DRAVKNOX-Studios)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DRAVKNOX-Studios&theme=dark&background=0f0f0f&border=333333&ring=00ff88&fire=ff4444&currStreakLabel=4488ff)](https://github.com/DRAVKNOX-Studios)
+[![Org Stats](https://github-readme-stats.vercel.app/api?username=DRAVKNOX-Studios&show_icons=true&theme=dark&bg_color=0f0f0f&border_color=333333&icon_color=00ff88&title_color=4488ff&text_color=ffffff)](https://github.com/DRAVKNOX-Studios)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DRAVKNOX-Studios&layout=compact&theme=dark&bg_color=0f0f0f&border_color=333333&title_color=4488ff&text_color=ffffff)](https://github.com/DRAVKNOX-Studios)
 
 </div>
 
