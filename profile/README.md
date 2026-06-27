@@ -273,7 +273,6 @@ for people who actually have to live with it.
 
 </div>
 
-- [ ] Launch first Talvrek application
 - [ ] Release Embrvaal's first story-driven game
 - [ ] Expand Veltrun music catalogue
 - [ ] Open community channels
