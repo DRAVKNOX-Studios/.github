@@ -287,7 +287,7 @@ for people who actually have to live with it.
 
 ## 🔗 LINKS
 
-[![Website](https://img.shields.io/badge/WEBSITE-dravknox--studios.github.io-00ff88?style=for-the-badge&labelColor=0f0f0f)](https://dravknox-studios.github.io/index-pro.html)
+[![Website](https://img.shields.io/badge/WEBSITE-dravknox--studios.github.io-00ff88?style=for-the-badge&labelColor=0f0f0f)](https://dravknox-studios.github.io/)
 [![GitHub](https://img.shields.io/badge/GITHUB-%40DRAVKNOX--Studios-4488ff?style=for-the-badge&labelColor=0f0f0f&logo=github)](https://github.com/DRAVKNOX-Studios)
 [![Contact](https://img.shields.io/badge/CONTACT-COMING_SOON-aa55ff?style=for-the-badge&labelColor=0f0f0f)](https://dravknox-studios.github.io/index-pro.html)
 
